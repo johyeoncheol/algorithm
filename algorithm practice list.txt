@@ -8,3 +8,8 @@
 8. Node
 9. Tree
 10. Selection Sort
+11. Buble Sort
+12. Insertion Sort
+13. Quick Sort
+
+
